@@ -1,0 +1,1 @@
+{"query":{"status":{"option":"online"},"name":"Flesh of the Beast","type":"Prophecy","stats":[{"type":"and","filters":[]}],"filters":{"misc_filters":{"filters":{"corrupted":{"option":"false"}}}}},"sort":{"price":"asc"}}

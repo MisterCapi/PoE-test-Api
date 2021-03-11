@@ -104,7 +104,10 @@ class Item:
 
 
 # Demo
-item = Item(name="Eternity Shroud", price=0, search_id="b0p8ezSL", category='item')
+item = Item(name="Eternity Shroud", price=20, search_id="b0p8ezSL", category='item')
 item.dump_to_database()
 item.load_from_database()
 print(item.search_link)
+# with connection:
+#     cursor.execute('select * from items')
+# print(cursor.fetchall())

@@ -257,6 +257,6 @@ item = Item(name="Item 15", price=20, search_id="b0p8ezSL", category='item', )
 item.dump_to_database()
 item.load_from_database()
 print(item.search_link)
-with connection:
-    cursor.execute('select * from items')
-print(cursor.fetchall())
+# with connection:
+# #     cursor.execute('select * from items')
+# # print(cursor.fetchall())

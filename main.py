@@ -2,8 +2,8 @@ import json
 import requests
 import matplotlib.pyplot as plt
 import numpy as np
-# Item without any auction to check exeption link: item_queries/fated_prophecies/Ancient Rivalries II Prophecy.json
-with open("item_queries/divination_cards/The Doctor.json", 'r') as f:
+# Item without any auction to check exception link: item_queries/fated_prophecies/Ancient Rivalries II Prophecy.json
+with open("item_queries/fated_prophecies/A Prodigious Hand Prophecy.json", 'r') as f:
     item_query = json.load(f)
 
 base_html = "https://www.pathofexile.com/api/trade/search/Ritual"
@@ -22,7 +22,6 @@ if len(item_list) != 0:
     price = 0
     for result in get_request_result['result']:
         print(result['listing']['price']['amount'], result['listing']['price']['currency'])
-        print(result)
         price += result['listing']['price']['amount']
 
     price /= min(10, len(post_request_response['result']))
@@ -31,6 +30,8 @@ if len(item_list) != 0:
         f.write(f"{str(price)},")
     with open(f"Prices/{item_query['query']['type']}_price.txt", 'r') as f:
         a = f.read().split(',')
+    print(a)
+    a = [round(float(x), 2) for x in a[:-1]]
 
     xpoints = np.array(a[:-1])
     plt.plot(xpoints)

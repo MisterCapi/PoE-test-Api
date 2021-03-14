@@ -21,12 +21,12 @@ for currency_tab in json.loads(requests.get(url).text)['lines']:
                          category="currency",
                          query_path="null")
     currency_item.dump_to_database()
-# currency_item = Item("chaos",
-#                      price=1,
-#                      search_id="5nBdfa",
-#                      category="currency_tradable",
-#                      query_path="null")
-# currency_item.dump_to_database()
+currency_item = Item("Chaos Orb",
+                     price=1,
+                     search_id="5nBdfa",
+                     category="currency",
+                     query_path="null")
+currency_item.dump_to_database()
 connection = sqlite3.connect('database.db')
 cursor = connection.cursor()
 print_database()

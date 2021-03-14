@@ -142,10 +142,10 @@ class Itemclone:
         with open(self.query_path, 'r', encoding='utf8') as f:
             query = json.load(f)
 
-item = Itemclone(name="Item 15", price=20, search_id="b0p8ezSL", category='item', )
-item.dump_to_database()
-item.load_from_database()
-print(item.search_link)
-with connection:
-    cursor.execute("SELECT * from items WHERE name='Item 15'")
-print(cursor.fetchall())
+# item = Itemclone(name="Item 15", price=20, search_id="b0p8ezSL", category='item', )
+# item.dump_to_database()
+# item.load_from_database()
+# print(item.search_link)
+# with connection:
+#     cursor.execute("SELECT * from items WHERE name='Item 15'")
+# print(cursor.fetchall())

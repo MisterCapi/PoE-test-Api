@@ -1,1 +1,1 @@
-{"query":{"status":{"option":"online"},"type":"Gift of the Gemling Queen","type":"and","stats":[{"type":"and","filters":[]}],"filters":{"misc_filters":{"filters":{"corrupted":{"option":"false"}}}}},"sort":{"price":"asc"}}
+{"query":{"status":{"option":"online"},"type":"Gift of the Gemling Queen","stats":[{"type":"and","filters":[]}],"filters":{"misc_filters":{"filters":{"corrupted":{"option":"false"}}}}},"sort":{"price":"asc"}}

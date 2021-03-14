@@ -1,1 +1,1 @@
-{"query":{"status":{"option":"online"},"type":"The Eye of the Dragon","type":"and","stats":[{"type":"and","filters":[]}],"filters":{"misc_filters":{"filters":{"corrupted":{"option":"false"}}}}},"sort":{"price":"asc"}}
+{"query":{"status":{"option":"online"},"type":"The Eye of the Dragon","stats":[{"type":"and","filters":[]}],"filters":{"misc_filters":{"filters":{"corrupted":{"option":"false"}}}}},"sort":{"price":"asc"}}

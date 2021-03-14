@@ -1,1 +1,1 @@
-{"query":{"status":{"option":"online"},"type":"Dying Anguish","type":"and","stats":[{"type":"and","filters":[]}],"filters":{"misc_filters":{"filters":{"corrupted":{"option":"false"}}}}},"sort":{"price":"asc"}}
+{"query":{"status":{"option":"online"},"type":"Dying Anguish","stats":[{"type":"and","filters":[]}],"filters":{"misc_filters":{"filters":{"corrupted":{"option":"false"}}}}},"sort":{"price":"asc"}}

@@ -1,1 +1,1 @@
-{"query":{"status":{"option":"online"},"type":"Might is Right","type":"and","stats":[{"type":"and","filters":[]}],"filters":{"misc_filters":{"filters":{"corrupted":{"option":"false"}}}}},"sort":{"price":"asc"}}
+{"query":{"status":{"option":"online"},"type":"Might is Right","stats":[{"type":"and","filters":[]}],"filters":{"misc_filters":{"filters":{"corrupted":{"option":"false"}}}}},"sort":{"price":"asc"}}

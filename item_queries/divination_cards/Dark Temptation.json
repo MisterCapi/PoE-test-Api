@@ -1,1 +1,1 @@
-{"query":{"status":{"option":"online"},"type":"Dark Temptation","type":"and","stats":[{"type":"and","filters":[]}],"filters":{"misc_filters":{"filters":{"corrupted":{"option":"false"}}}}},"sort":{"price":"asc"}}
+{"query":{"status":{"option":"online"},"type":"Dark Temptation","stats":[{"type":"and","filters":[]}],"filters":{"misc_filters":{"filters":{"corrupted":{"option":"false"}}}}},"sort":{"price":"asc"}}

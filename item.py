@@ -49,7 +49,8 @@ class Item:
                             "alt": "Orb of Alteration",
                             "alch": "Orb of Alchemy",
                             "regal": "Regal Orb",
-                            "vaal": "Vaal Orb"}
+                            "vaal": "Vaal Orb",
+                            "silver": "Silver Coin"}
         if name in currencies_cases:
             self.name = currencies_cases[name]
         else:
@@ -148,9 +149,11 @@ class Item:
             query = json.load(f)
         base_html = f"https://www.pathofexile.com/api/trade/search/{league}"
         post_request = eval(requests.post(base_html, json=query, headers=headers).text)
-        if post_request:
+        item_list = ','.join(post_request['result'][:min(10, len(post_request['result']))])
+
+        if len(item_list) != 0:
             self.search_id = post_request['id']
-            item_list = ','.join(post_request['result'][:min(10, len(post_request['result']))])
+
             get_url = f"https://www.pathofexile.com/api/trade/fetch/{item_list}?query={post_request['id']}"
             get_request_result = json.loads(requests.get(get_url, headers=headers).text)
 
@@ -163,19 +166,5 @@ class Item:
             self.price = price / min(10, len(post_request['result']))
             print(round(price, 2))
 
-            funished_item = Item
         else:
             warnings.warn("No item listed on site", RuntimeWarning)
-
-
-# item = Item(name="Item 15", price=20, search_id="b0p8ezSL", category='item', )
-# item.dump_to_database()
-# item.load_from_database()
-# print(item.search_link)
-# with connection:
-#     cursor.execute("SELECT * from items WHERE name='Exalted Orb'")
-# kubus_Puchatek = Item(name='chaos')
-# kubus_Puchatek.load_from_database()
-# print(kubus_Puchatek.price)
-item = Item(name="The Doctor", query_path="item_queries/divination_cards/The Doctor.json")
-item.get_data_from_api()

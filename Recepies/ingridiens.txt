@@ -55,10 +55,14 @@ The Snuffed Flame,Kaltenhalt
 The Storm Spire,The Stormheart
 Trapped in the Tower,Fencoil
 Winter's Mournful Melodies,Hrimnor's Hymn
-
-
-
-
-
-
-
+Primordial Might,Primordial Harmony,Primordial Eminence
+Grelwood Shank,Beltimber Blade,Orb of Fusing
+Shade of Solaris,Light of Lunaris,Orb of Fusing
+The Goddess Bound,Elegant Sword,Combustion Support
+Sharktooth Arrow Quiver,Onyx Amulet,Rain of Arrows,Orb of Chance
+Soul Taker,Heartbreaker,Orb of Fusing
+Invictus Solaris,Vix Lunaris,Orb of Fusing
+Feastbind,Faminebind,Orb of Fusing
+Ruby Ring,Onyx Amulet,Lightning Warp
+Berek's Respite,Berek's Pass,Berek's Grip
+Agnerod North,Agnerod South,Agnerod East,Agnerod West

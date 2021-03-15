@@ -55,5 +55,14 @@ Kill Chatters in The Lower Prison while holding a Kaltenhalt.
 Kill Poporo, the Highest Spire in Plateau Map while holding The Stormheart.
 Kill Caliga, Imperatrix in The Sceptre of God in Act 3 while holding Fencoil.
 Kill Soulmourn in The Fellshrine Ruins (Act 2) while holding a Hrimnor's Hymn.
-
-
+None
+None
+Corrupted items cannot be used.
+20% quality/20% quality/1% quality / The sockets of The Goddess Bound and the Elegant Sword must also match exactly in number, color, and links.
+white / rare / 1% quality / None
+Corrupted items cannot be used. Using Shaper or Elder components will create a Shaper or Elder Kingmaker.
+None
+None
+unique / any rarity / level 20 corrupted /Vaal Lightning Warp will not work
+Using three alternate art Berek rings will create an alternate art The Taming. Using three Shaper or Elder Berek rings will create a Shaper or Elder The Taming.
+None

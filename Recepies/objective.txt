@@ -8,10 +8,52 @@ Kill Tyrant in Colonnade Map while holding Iron Heart.
 Kill Litanius, the Black Prayer in Relic Chambers Map while holding Geofri's Baptism.
 Kill Barthol, the Pure in Haunted Mansion Map while holding a The Ignomon.
 Kill Jorus, Sky's Edge in Temple Map while holding Eclipse Solaris.
-
-
-
-
-
+Kill Piety the Empyrean in Shrine Map while holding a Dreadarc
+Kill Glace in Beach Map while holding Bloodboil.
+Kill Fragment of Winter in Waterways Map while holding Cameria's Maul.
+Kill Visceris in Overgrown Ruin Map while holding Goredrill.
+Kill The Steel Soul in Arsenal Map while holding The Dancing Dervish.
+Kill Arakaali, Spinner of Shadows in The Temple of Decay Level 2 in Act 7 while holding Foxshade.
+Kill Doedre the Defiler in Sepulchre Map while holding Windscream.
+Kill General Gravicius in The Ebony Barracks while holding a Deidbell.
+Kill Tsoagoth, The Brine King in The Brine King's Reef in Act 6 while holding Icetomb.
+Kill Tolman, the Exhumer in Mausoleum Map while holding Chober Chaber.
+Kill Hatebeat in The Crematorium while holding a Blackgleam.
+Kill Hailrake in The Tidal Island while holding a Hrimsorrow.
+Kill Bameth, a unique Beyond Demon, while wearing aBlackheart, or have it in the inventory of the player character.
+Kill Guardian of the Vault in Vault Map while holding Wondertrap.
+Kill Gneiss in The Old Fields while wearing or carrying a Craghead.
+Kill Master of the Blade in Strand Map while holding Briskwrap.
+Kill Doedre in The Harvest (Act 4) or The Toxic Conduits (Act 8) while equipped with, or carrying, Chalice of Horrors.
+Kill Calaf, Headstaver in The Southern Forest (Act 2) while holding a Springleaf.
+Kill Shavronne in The Harvest or Core Map while holding Crown of Thorns.
+Kill Piety in The Lunaris Temple Level 2 (Act 3) or Piety, the Abomination in The Belly of the Beast Level 2 or Piety the Empyrean in Shrine Map while holding a Reverberation Rod. Note: holding means equipping or having the gear in the player inventory. Completing the prophecy while Dual wielding a Reverberation Rod in each hand only upgrades the primary hand.
+Kill Hammerstorm in The Mines Level 2 while equipping or holding Limbsplit in your inventory.
+Kill Garukhan, Queen of the Winds in the side area of The Quarry in Act 9 while holding a Asenath's Mark.
+Kill Dawn, Harbinger of Solaris in The Solaris Temple Level 2 (Act 8) while holding a Sundance.
+Kill The Hundred Foot Shadow in The Aqueduct while wielding The Screaming Eagle.
+Kill Archbishop Geofri in The Crypt Level 2 while holding a Realmshaper.
+Kill Pagan Bishop of Agony in Cursed Crypt Map while holding Geofri's Crest.
+Kill Gemling Legionnaires in The Grain Gate (Act 8) while holding a Ezomyte Peak.
+Kill Nightwane in The Dried Lake while holding a Death's Harp. (Note: holding means equipping or having that bow in the player inventory.)
+Kill Skullbeak in Bog Map while holding Redbeak.
+Kill Shadow of the Vaal in Maze Map while holding Quecholli.Kill Shavronne in The Harvest while holding a Shavronne's Pace.
+Kill Shavronne in The Harvest while holding a Shavronne's Pace.
+Kill Boulderback in The Foothills in Act 9 while holding The Magnate.
+Kill Hector Titucius, Eternal Servant in The Bath House in Act 8 while holding The Magnate.
+Kill the Gemling Legionnaires in The Grain Gate while holding a Karui Ward; Holding means equipping the amulet or having the item in the inventory of the player character.
+Kill Daresso in The Grand Arena while holding Bramblejack.
+Kill Kaom in Kaom's Stronghold while holding a Kaom's Sign.
+Kill Erythrophagia in Phantasmagoria Map while holding Doedre's Tenure.
+Kill The Cleansing Light in Basilica Map while holding Matua Tupuna.
+Kill The Bone Queen in The Belly of the Beast Level 1 while holding a Queen's Decree.
+Kill Eater of Souls in Core Map while holding Malachai's Simula.
+Kill Atziri, Queen of the Vaal in The Alluring Abyss while holding Atziri's Mirror.
+Kill Fidelitas in The Chamber of Sins Level 2 (Act 2) while wielding a Storm Cloud or have it in your player character inventory.
+Kill Targa, Beast Poacher in The Riverways while holding a Silverbranch.
+Kill Chatters in The Lower Prison while holding a Kaltenhalt.
+Kill Poporo, the Highest Spire in Plateau Map while holding The Stormheart.
+Kill Caliga, Imperatrix in The Sceptre of God in Act 3 while holding Fencoil.
+Kill Soulmourn in The Fellshrine Ruins (Act 2) while holding a Hrimnor's Hymn.
 
 

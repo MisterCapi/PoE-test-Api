@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PoE-test-Api.iml" filepath="$PROJECT_DIR$/.idea/PoE-test-Api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PoE-Market-API.iml" filepath="$PROJECT_DIR$/.idea/PoE-Market-API.iml" />
     </modules>
   </component>
 </project>
